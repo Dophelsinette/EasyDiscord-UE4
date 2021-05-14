@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EasyDiscord.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Intermediate\Build\Win64\ToolsAndPluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Intermediate\Build\Win64\UE4Editor\Development\EasyDiscord\Module.EasyDiscord.cpp.obj"
+"C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Intermediate\Build\Win64\UE4Editor\Development\EasyDiscord\Module.EasyDiscord.gen.cpp.obj"
+"C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Intermediate\Build\Win64\UE4Editor\Development\EasyDiscord\Default.rc2.res"
+/OUT:"C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Intermediate\Build\Win64\UE4Editor\Development\EasyDiscord\UE4Editor-EasyDiscord.lib"
+/INCLUDE:IMPLEMENT_MODULE_EasyDiscord

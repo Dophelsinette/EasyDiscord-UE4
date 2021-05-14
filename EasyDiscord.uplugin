@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Easy Discord",
+	"Description": "Discord Game SDK integration for Unreal Blueprints",
+	"Category": "Messaging",
+	"CreatedBy": "Peemard",
+	"CreatedByURL": "https://www.youtube.com/channel/UC6xyOp6XZxLwuit-ybkRIEA",
+	"SupportURL": "https://discord.gg/BsyvFW4",
+	"Installed": false,
+	"Enabled" : false,
+	"Modules": [
+		{
+			"Name": "EasyDiscord",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}

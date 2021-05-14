@@ -1,0 +1,38 @@
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Intermediate\Build\Win64\UE4Editor\Development\EasyDiscord\Definitions.EasyDiscord.h
+C:/Users/Ben/Documents/Unreal Projects/ToolsAndPlugins/Plugins/EasyDiscord/Intermediate/Build/Win64/UE4Editor/Inc/EasyDiscord/EasyDiscord.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/Ben/Documents/Unreal Projects/ToolsAndPlugins/Plugins/EasyDiscord/Intermediate/Build/Win64/UE4Editor/Inc/EasyDiscord/EasyDiscordCore.gen.cpp
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord/Public/EasyDiscordCore.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\Public\../GameSDK/discord.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\types.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\ffi.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\event.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE\vector
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\core.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\application_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\user_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\image_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\activity_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\relationship_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\lobby_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\network_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\overlay_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\storage_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\store_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\voice_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord\GameSDK\achievement_manager.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Intermediate\Build\Win64\UE4Editor\Inc\EasyDiscord\EasyDiscordCore.generated.h
+C:/Users/Ben/Documents/Unreal Projects/ToolsAndPlugins/Plugins/EasyDiscord/Intermediate/Build/Win64/UE4Editor/Inc/EasyDiscord/RichPresence.gen.cpp
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Source\EasyDiscord/Public/RichPresence.h
+C:\Users\Ben\Documents\Unreal Projects\ToolsAndPlugins\Plugins\EasyDiscord\Intermediate\Build\Win64\UE4Editor\Inc\EasyDiscord\RichPresence.generated.h
