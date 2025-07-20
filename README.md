@@ -1,5 +1,7 @@
 # Easy Discord for Unreal Engine
 
+# This project has since been deprecated. Maybe I'll pick it back up sometime.
+
 ### [JUST TAKE ME TO THE INSTALL INSTRUCTIONS 🙄](#INSTALLATION-&-SETUP)
 ___
 ### [COME ON, SHOW ME THE DOCUMENTATION 🤦‍♂️](#DOCUMENTATION)
